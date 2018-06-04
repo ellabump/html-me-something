@@ -1,0 +1,26 @@
+header {
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 10px;
+    background-color: lightskyblue;
+}
+p {
+    color: #336699;
+}
+li {
+    color: #173059;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+h5 {
+    color: #31535a;
+    margin-left: 80px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
